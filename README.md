@@ -28,7 +28,7 @@ revenue impact, and actionable retention strategies.
 1.How Many customers joined the company during the last quarter?How many customers joined? 454 customers(6.45%)
 
 2.What is the customer profile for a customer that churned,joined and stayed?Are they different?
-
+ churn Most of them are month to month contract customers,they use fiber optic internet service average age of 49 and tenare of 17 months joined also month to month internet type DSL ,tenarue 1 and age 42 stayed are two-year contract use fiber optic tenarure 41 months age 45
 3.What seem to be the key drivers of custome churn?Competitors are the biggest driver by approximately 33.39%
 
 4.Is the company losing high value customers?If so,how can they retain them?"The company is disproportionately losing high-value Fiber Optic and Month-to-Month customers — representing $3M and $2.5M in churned revenue respectively — while lower-tier DSL and Cable segments remain relatively stable
